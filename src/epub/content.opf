@@ -59,36 +59,41 @@
 		<meta property="term" refines="#subject-9">sh2008106913</meta>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2010118279</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The lives of two young people are thrown into disarray when their father, the owner of a mill, is bankrupted by an unwise legal dispute.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Published in 1860, &lt;i&gt;The Mill on the Floss&lt;/i&gt; was the second novel published by “George Eliot” (Mary Ann Evans). Set in the late 1820s or early 1830s, it tells the story of two young people, Tom and Maggie Tulliver, from their childhood into early adulthood. Their father, Jeremy Tulliver, owns Dorlote Mill situated on the river Floss, and the children grow to adolescence in relative comfort. However Mr. Tulliver is litigous and initiates an unwise legal suit against a local solicitor, Mr. Wakem. The suit is thrown out and the associated costs throw the Tulliver family into poverty, and they lose possession of the mill.&lt;/p&gt;
+			&lt;p&gt;The main character of the novel is Maggie Tulliver, an intelligent and passionate child and young woman, whose mental, romantic and moral struggles we follow closely. As in Eliot’s other novels, the author shows a realistic and sympathetic understanding of human behavior.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mill on the Floss&lt;/i&gt; is regarded as a classic of English literature, and has been made into both a film and a television series.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6688</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/flossmillon01eliorich/</dc:source>
+		<dc:source>https://archive.org/details/onflossmill02eliorich</dc:source>
+		<dc:source>https://archive.org/details/millonfloss03eliorich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mill_on_the_Floss</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-eliot_the-mill-on-the-floss</meta>
 		<dc:creator id="author">George Eliot</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Eliot, George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Eliot</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79045512</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">John Constable</dc:contributor>
+		<meta property="file-as" refines="#artist">Constable, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80007977</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Curtis Weyant</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Weyant, Curtis</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Maddock</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Maddock, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -100,7 +105,9 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
@@ -176,12 +183,6 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="book-1.xhtml"/>
-		<itemref idref="book-2.xhtml"/>
-		<itemref idref="book-3.xhtml"/>
-		<itemref idref="book-4.xhtml"/>
-		<itemref idref="book-5.xhtml"/>
-		<itemref idref="book-6.xhtml"/>
-		<itemref idref="book-7.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
 		<itemref idref="chapter-1-3.xhtml"/>
@@ -195,6 +196,7 @@
 		<itemref idref="chapter-1-11.xhtml"/>
 		<itemref idref="chapter-1-12.xhtml"/>
 		<itemref idref="chapter-1-13.xhtml"/>
+		<itemref idref="book-2.xhtml"/>
 		<itemref idref="chapter-2-1.xhtml"/>
 		<itemref idref="chapter-2-2.xhtml"/>
 		<itemref idref="chapter-2-3.xhtml"/>
@@ -202,6 +204,7 @@
 		<itemref idref="chapter-2-5.xhtml"/>
 		<itemref idref="chapter-2-6.xhtml"/>
 		<itemref idref="chapter-2-7.xhtml"/>
+		<itemref idref="book-3.xhtml"/>
 		<itemref idref="chapter-3-1.xhtml"/>
 		<itemref idref="chapter-3-2.xhtml"/>
 		<itemref idref="chapter-3-3.xhtml"/>
@@ -211,9 +214,11 @@
 		<itemref idref="chapter-3-7.xhtml"/>
 		<itemref idref="chapter-3-8.xhtml"/>
 		<itemref idref="chapter-3-9.xhtml"/>
+		<itemref idref="book-4.xhtml"/>
 		<itemref idref="chapter-4-1.xhtml"/>
 		<itemref idref="chapter-4-2.xhtml"/>
 		<itemref idref="chapter-4-3.xhtml"/>
+		<itemref idref="book-5.xhtml"/>
 		<itemref idref="chapter-5-1.xhtml"/>
 		<itemref idref="chapter-5-2.xhtml"/>
 		<itemref idref="chapter-5-3.xhtml"/>
@@ -221,6 +226,7 @@
 		<itemref idref="chapter-5-5.xhtml"/>
 		<itemref idref="chapter-5-6.xhtml"/>
 		<itemref idref="chapter-5-7.xhtml"/>
+		<itemref idref="book-6.xhtml"/>
 		<itemref idref="chapter-6-1.xhtml"/>
 		<itemref idref="chapter-6-2.xhtml"/>
 		<itemref idref="chapter-6-3.xhtml"/>
@@ -235,6 +241,7 @@
 		<itemref idref="chapter-6-12.xhtml"/>
 		<itemref idref="chapter-6-13.xhtml"/>
 		<itemref idref="chapter-6-14.xhtml"/>
+		<itemref idref="book-7.xhtml"/>
 		<itemref idref="chapter-7-1.xhtml"/>
 		<itemref idref="chapter-7-2.xhtml"/>
 		<itemref idref="chapter-7-3.xhtml"/>
