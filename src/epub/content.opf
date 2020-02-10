@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-02-10T22:30:14Z</dc:date>
+		<meta property="dcterms:modified">2020-02-10T22:30:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -62,8 +62,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The lives of two young people are thrown into disarray when their father, the owner of a mill, is bankrupted by an unwise legal dispute.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1860, &lt;i&gt;The Mill on the Floss&lt;/i&gt; was the second novel published by “George Eliot” (Mary Ann Evans). Set in the late 1820s or early 1830s, it tells the story of two young people, Tom and Maggie Tulliver, from their childhood into early adulthood. Their father, Jeremy Tulliver, owns Dorlcote Mill situated on the river Floss, and the children grow to adolescence in relative comfort. However Mr. Tulliver is litigous and initiates an unwise legal suit against a local solicitor, Mr. Wakem. The suit is thrown out and the associated costs throw the Tulliver family into poverty, and they lose possession of the mill.&lt;/p&gt;
-			&lt;p&gt;The main character of the novel is Maggie Tulliver, an intelligent and passionate child and young woman, whose mental, romantic and moral struggles we follow closely. As in Eliot’s other novels, the author shows a realistic and sympathetic understanding of human behavior.&lt;/p&gt;
+			&lt;p&gt;Published in 1860, &lt;i&gt;The Mill on the Floss&lt;/i&gt; was the second novel published by George Eliot (the pen name of Mary Ann Evans). Set in the late 1820s or early 1830s, it tells the story of two young people, Tom and Maggie Tulliver, from their childhood into early adulthood. Their father, Jeremy Tulliver, owns Dorlcote Mill on the river Floss, and the children grow to adolescence in relative comfort. However Mr. Tulliver is litigous and initiates an unwise legal suit against a local solicitor, Mr. Wakem. The suit is thrown out and the associated costs throw the Tulliver family into poverty, and they lose possession of the mill.&lt;/p&gt;
+			&lt;p&gt;The main character of the novel is Maggie Tulliver, an intelligent and passionate child and young woman, whose mental, romantic, and moral struggles we follow closely. As in Eliot’s other novels, the author shows a realistic and sympathetic understanding of human behavior.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mill on the Floss&lt;/i&gt; is regarded as a classic of English literature, and has been made into both a film and a television series.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -71,8 +71,8 @@
 		<dc:source>https://archive.org/details/flossmillon01eliorich/</dc:source>
 		<dc:source>https://archive.org/details/onflossmill02eliorich</dc:source>
 		<dc:source>https://archive.org/details/millonfloss03eliorich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">212165</meta>
+		<meta property="se:reading-ease.flesch">66.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mill_on_the_Floss</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-eliot_the-mill-on-the-floss</meta>
 		<dc:creator id="author">George Eliot</dc:creator>
@@ -100,6 +100,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
