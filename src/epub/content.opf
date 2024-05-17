@@ -59,6 +59,8 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2010118279</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The lives of two young people are thrown into disarray when their father, the owner of a mill, is bankrupted by an unwise legal dispute.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1860, &lt;i&gt;The Mill on the Floss&lt;/i&gt; was the second novel published by &lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt; (the pen name of Mary Ann Evans). Set in the late 1820s or early 1830s, it tells the story of two young people, Tom and Maggie Tulliver, from their childhood into early adulthood. Their father, Jeremy Tulliver, owns Dorlcote Mill on the river Floss, and the children grow to adolescence in relative comfort. However &lt;abbr&gt;Mr.&lt;/abbr&gt; Tulliver is litigious and initiates an unwise legal suit against a local solicitor, &lt;abbr&gt;Mr.&lt;/abbr&gt; Wakem. The suit is thrown out and the associated costs throw the Tulliver family into poverty, and they lose possession of the mill.&lt;/p&gt;
