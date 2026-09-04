@@ -30,16 +30,16 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Mill on the Floss</dc:title>
 		<meta property="file-as" refines="#title">Mill on the Floss, The</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
 		<dc:subject id="subject-5">Domestic fiction</dc:subject>
-		<dc:subject id="subject-6">Brothers and sisters -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Conflict of generations -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Vendetta -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Loss (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Water mills -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Brothers and sisters--Fiction</dc:subject>
+		<dc:subject id="subject-7">Conflict of generations--Fiction</dc:subject>
+		<dc:subject id="subject-8">Vendetta--Fiction</dc:subject>
+		<dc:subject id="subject-9">Loss (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-10">Water mills--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
